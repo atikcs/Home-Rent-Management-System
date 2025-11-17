@@ -1,0 +1,769 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\final 2\\Rent dibo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D612CD90-0AEC-43E3-85BD-485B247560FF}|Rent dibo\\Rent dibo.csproj|D:\\final 2\\Rent dibo\\rent dibo\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D612CD90-0AEC-43E3-85BD-485B247560FF}|Rent dibo\\Rent dibo.csproj|solutionrelative:rent dibo\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D612CD90-0AEC-43E3-85BD-485B247560FF}|Rent dibo\\Rent dibo.csproj|D:\\final 2\\Rent dibo\\rent dibo\\rentpaymentsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D612CD90-0AEC-43E3-85BD-485B247560FF}|Rent dibo\\Rent dibo.csproj|solutionrelative:rent dibo\\rentpaymentsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D612CD90-0AEC-43E3-85BD-485B247560FF}|Rent dibo\\Rent dibo.csproj|D:\\final 2\\Rent dibo\\rent dibo\\form15.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D612CD90-0AEC-43E3-85BD-485B247560FF}|Rent dibo\\Rent dibo.csproj|solutionrelative:rent dibo\\form15.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D612CD90-0AEC-43E3-85BD-485B247560FF}|Rent dibo\\Rent dibo.csproj|D:\\final 2\\Rent dibo\\rent dibo\\form15.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D612CD90-0AEC-43E3-85BD-485B247560FF}|Rent dibo\\Rent dibo.csproj|solutionrelative:rent dibo\\form15.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D612CD90-0AEC-43E3-85BD-485B247560FF}|Rent dibo\\Rent dibo.csproj|D:\\final 2\\Rent dibo\\rent dibo\\form14.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D612CD90-0AEC-43E3-85BD-485B247560FF}|Rent dibo\\Rent dibo.csproj|solutionrelative:rent dibo\\form14.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D612CD90-0AEC-43E3-85BD-485B247560FF}|Rent dibo\\Rent dibo.csproj|D:\\final 2\\Rent dibo\\rent dibo\\form14.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D612CD90-0AEC-43E3-85BD-485B247560FF}|Rent dibo\\Rent dibo.csproj|solutionrelative:rent dibo\\form14.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D612CD90-0AEC-43E3-85BD-485B247560FF}|Rent dibo\\Rent dibo.csproj|D:\\final 2\\Rent dibo\\rent dibo\\form13.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D612CD90-0AEC-43E3-85BD-485B247560FF}|Rent dibo\\Rent dibo.csproj|solutionrelative:rent dibo\\form13.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D612CD90-0AEC-43E3-85BD-485B247560FF}|Rent dibo\\Rent dibo.csproj|D:\\final 2\\Rent dibo\\rent dibo\\form12.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D612CD90-0AEC-43E3-85BD-485B247560FF}|Rent dibo\\Rent dibo.csproj|solutionrelative:rent dibo\\form12.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D612CD90-0AEC-43E3-85BD-485B247560FF}|Rent dibo\\Rent dibo.csproj|d:\\final 2\\rent dibo\\rent dibo\\form7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D612CD90-0AEC-43E3-85BD-485B247560FF}|Rent dibo\\Rent dibo.csproj|solutionrelative:rent dibo\\form7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D612CD90-0AEC-43E3-85BD-485B247560FF}|Rent dibo\\Rent dibo.csproj|D:\\final 2\\Rent dibo\\rent dibo\\form7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D612CD90-0AEC-43E3-85BD-485B247560FF}|Rent dibo\\Rent dibo.csproj|solutionrelative:rent dibo\\form7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D612CD90-0AEC-43E3-85BD-485B247560FF}|Rent dibo\\Rent dibo.csproj|D:\\final 2\\Rent dibo\\rent dibo\\form10.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D612CD90-0AEC-43E3-85BD-485B247560FF}|Rent dibo\\Rent dibo.csproj|solutionrelative:rent dibo\\form10.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D612CD90-0AEC-43E3-85BD-485B247560FF}|Rent dibo\\Rent dibo.csproj|D:\\final 2\\Rent dibo\\rent dibo\\form10.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D612CD90-0AEC-43E3-85BD-485B247560FF}|Rent dibo\\Rent dibo.csproj|solutionrelative:rent dibo\\form10.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D612CD90-0AEC-43E3-85BD-485B247560FF}|Rent dibo\\Rent dibo.csproj|D:\\final 2\\Rent dibo\\rent dibo\\form12.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D612CD90-0AEC-43E3-85BD-485B247560FF}|Rent dibo\\Rent dibo.csproj|solutionrelative:rent dibo\\form12.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D612CD90-0AEC-43E3-85BD-485B247560FF}|Rent dibo\\Rent dibo.csproj|D:\\final 2\\Rent dibo\\rent dibo\\form16.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D612CD90-0AEC-43E3-85BD-485B247560FF}|Rent dibo\\Rent dibo.csproj|solutionrelative:rent dibo\\form16.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D612CD90-0AEC-43E3-85BD-485B247560FF}|Rent dibo\\Rent dibo.csproj|D:\\final 2\\Rent dibo\\rent dibo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D612CD90-0AEC-43E3-85BD-485B247560FF}|Rent dibo\\Rent dibo.csproj|solutionrelative:rent dibo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D612CD90-0AEC-43E3-85BD-485B247560FF}|Rent dibo\\Rent dibo.csproj|D:\\final 2\\Rent dibo\\rent dibo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D612CD90-0AEC-43E3-85BD-485B247560FF}|Rent dibo\\Rent dibo.csproj|solutionrelative:rent dibo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D612CD90-0AEC-43E3-85BD-485B247560FF}|Rent dibo\\Rent dibo.csproj|D:\\final 2\\Rent dibo\\rent dibo\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D612CD90-0AEC-43E3-85BD-485B247560FF}|Rent dibo\\Rent dibo.csproj|solutionrelative:rent dibo\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D612CD90-0AEC-43E3-85BD-485B247560FF}|Rent dibo\\Rent dibo.csproj|D:\\final 2\\Rent dibo\\rent dibo\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D612CD90-0AEC-43E3-85BD-485B247560FF}|Rent dibo\\Rent dibo.csproj|solutionrelative:rent dibo\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D612CD90-0AEC-43E3-85BD-485B247560FF}|Rent dibo\\Rent dibo.csproj|D:\\final 2\\Rent dibo\\rent dibo\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D612CD90-0AEC-43E3-85BD-485B247560FF}|Rent dibo\\Rent dibo.csproj|solutionrelative:rent dibo\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D612CD90-0AEC-43E3-85BD-485B247560FF}|Rent dibo\\Rent dibo.csproj|D:\\final 2\\Rent dibo\\rent dibo\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D612CD90-0AEC-43E3-85BD-485B247560FF}|Rent dibo\\Rent dibo.csproj|solutionrelative:rent dibo\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D612CD90-0AEC-43E3-85BD-485B247560FF}|Rent dibo\\Rent dibo.csproj|D:\\final 2\\Rent dibo\\rent dibo\\form11.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D612CD90-0AEC-43E3-85BD-485B247560FF}|Rent dibo\\Rent dibo.csproj|solutionrelative:rent dibo\\form11.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D612CD90-0AEC-43E3-85BD-485B247560FF}|Rent dibo\\Rent dibo.csproj|D:\\final 2\\Rent dibo\\rent dibo\\form11.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D612CD90-0AEC-43E3-85BD-485B247560FF}|Rent dibo\\Rent dibo.csproj|solutionrelative:rent dibo\\form11.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D612CD90-0AEC-43E3-85BD-485B247560FF}|Rent dibo\\Rent dibo.csproj|D:\\final 2\\Rent dibo\\rent dibo\\form6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D612CD90-0AEC-43E3-85BD-485B247560FF}|Rent dibo\\Rent dibo.csproj|solutionrelative:rent dibo\\form6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D612CD90-0AEC-43E3-85BD-485B247560FF}|Rent dibo\\Rent dibo.csproj|D:\\final 2\\Rent dibo\\rent dibo\\form6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D612CD90-0AEC-43E3-85BD-485B247560FF}|Rent dibo\\Rent dibo.csproj|solutionrelative:rent dibo\\form6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D612CD90-0AEC-43E3-85BD-485B247560FF}|Rent dibo\\Rent dibo.csproj|D:\\final 2\\Rent dibo\\rent dibo\\form9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D612CD90-0AEC-43E3-85BD-485B247560FF}|Rent dibo\\Rent dibo.csproj|solutionrelative:rent dibo\\form9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D612CD90-0AEC-43E3-85BD-485B247560FF}|Rent dibo\\Rent dibo.csproj|D:\\final 2\\Rent dibo\\rent dibo\\form8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D612CD90-0AEC-43E3-85BD-485B247560FF}|Rent dibo\\Rent dibo.csproj|solutionrelative:rent dibo\\form8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D612CD90-0AEC-43E3-85BD-485B247560FF}|Rent dibo\\Rent dibo.csproj|D:\\final 2\\Rent dibo\\rent dibo\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D612CD90-0AEC-43E3-85BD-485B247560FF}|Rent dibo\\Rent dibo.csproj|solutionrelative:rent dibo\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D612CD90-0AEC-43E3-85BD-485B247560FF}|Rent dibo\\Rent dibo.csproj|D:\\final 2\\Rent dibo\\rent dibo\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D612CD90-0AEC-43E3-85BD-485B247560FF}|Rent dibo\\Rent dibo.csproj|solutionrelative:rent dibo\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D612CD90-0AEC-43E3-85BD-485B247560FF}|Rent dibo\\Rent dibo.csproj|D:\\final 2\\Rent dibo\\rent dibo\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D612CD90-0AEC-43E3-85BD-485B247560FF}|Rent dibo\\Rent dibo.csproj|solutionrelative:rent dibo\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D612CD90-0AEC-43E3-85BD-485B247560FF}|Rent dibo\\Rent dibo.csproj|D:\\final 2\\Rent dibo\\rent dibo\\form13.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D612CD90-0AEC-43E3-85BD-485B247560FF}|Rent dibo\\Rent dibo.csproj|solutionrelative:rent dibo\\form13.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D612CD90-0AEC-43E3-85BD-485B247560FF}|Rent dibo\\Rent dibo.csproj|D:\\final 2\\Rent dibo\\rent dibo\\notice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D612CD90-0AEC-43E3-85BD-485B247560FF}|Rent dibo\\Rent dibo.csproj|solutionrelative:rent dibo\\notice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D612CD90-0AEC-43E3-85BD-485B247560FF}|Rent dibo\\Rent dibo.csproj|D:\\final 2\\Rent dibo\\rent dibo\\assignmanagerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D612CD90-0AEC-43E3-85BD-485B247560FF}|Rent dibo\\Rent dibo.csproj|solutionrelative:rent dibo\\assignmanagerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D612CD90-0AEC-43E3-85BD-485B247560FF}|Rent dibo\\Rent dibo.csproj|D:\\final 2\\Rent dibo\\rent dibo\\form16.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D612CD90-0AEC-43E3-85BD-485B247560FF}|Rent dibo\\Rent dibo.csproj|solutionrelative:rent dibo\\form16.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D612CD90-0AEC-43E3-85BD-485B247560FF}|Rent dibo\\Rent dibo.csproj|D:\\final 2\\Rent dibo\\rent dibo\\mypaymentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D612CD90-0AEC-43E3-85BD-485B247560FF}|Rent dibo\\Rent dibo.csproj|solutionrelative:rent dibo\\mypaymentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D612CD90-0AEC-43E3-85BD-485B247560FF}|Rent dibo\\Rent dibo.csproj|D:\\final 2\\Rent dibo\\rent dibo\\rentpaymentsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D612CD90-0AEC-43E3-85BD-485B247560FF}|Rent dibo\\Rent dibo.csproj|solutionrelative:rent dibo\\rentpaymentsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D612CD90-0AEC-43E3-85BD-485B247560FF}|Rent dibo\\Rent dibo.csproj|D:\\final 2\\Rent dibo\\rent dibo\\form9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D612CD90-0AEC-43E3-85BD-485B247560FF}|Rent dibo\\Rent dibo.csproj|solutionrelative:rent dibo\\form9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D612CD90-0AEC-43E3-85BD-485B247560FF}|Rent dibo\\Rent dibo.csproj|D:\\final 2\\Rent dibo\\rent dibo\\form8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D612CD90-0AEC-43E3-85BD-485B247560FF}|Rent dibo\\Rent dibo.csproj|solutionrelative:rent dibo\\form8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D612CD90-0AEC-43E3-85BD-485B247560FF}|Rent dibo\\Rent dibo.csproj|D:\\final 2\\Rent dibo\\rent dibo\\assignmanagerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D612CD90-0AEC-43E3-85BD-485B247560FF}|Rent dibo\\Rent dibo.csproj|solutionrelative:rent dibo\\assignmanagerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D612CD90-0AEC-43E3-85BD-485B247560FF}|Rent dibo\\Rent dibo.csproj|D:\\final 2\\Rent dibo\\rent dibo\\form8.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D612CD90-0AEC-43E3-85BD-485B247560FF}|Rent dibo\\Rent dibo.csproj|solutionrelative:rent dibo\\form8.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D612CD90-0AEC-43E3-85BD-485B247560FF}|Rent dibo\\Rent dibo.csproj|D:\\final 2\\Rent dibo\\rent dibo\\form13.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D612CD90-0AEC-43E3-85BD-485B247560FF}|Rent dibo\\Rent dibo.csproj|solutionrelative:rent dibo\\form13.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D612CD90-0AEC-43E3-85BD-485B247560FF}|Rent dibo\\Rent dibo.csproj|D:\\final 2\\Rent dibo\\rent dibo\\form13.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{D612CD90-0AEC-43E3-85BD-485B247560FF}|Rent dibo\\Rent dibo.csproj|solutionrelative:rent dibo\\form13.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D612CD90-0AEC-43E3-85BD-485B247560FF}|Rent dibo\\Rent dibo.csproj|D:\\final 2\\Rent dibo\\rent dibo\\notice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D612CD90-0AEC-43E3-85BD-485B247560FF}|Rent dibo\\Rent dibo.csproj|solutionrelative:rent dibo\\notice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D612CD90-0AEC-43E3-85BD-485B247560FF}|Rent dibo\\Rent dibo.csproj|D:\\final 2\\Rent dibo\\rent dibo\\mypaymentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D612CD90-0AEC-43E3-85BD-485B247560FF}|Rent dibo\\Rent dibo.csproj|solutionrelative:rent dibo\\mypaymentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D612CD90-0AEC-43E3-85BD-485B247560FF}|Rent dibo\\Rent dibo.csproj|D:\\final 2\\Rent dibo\\rent dibo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D612CD90-0AEC-43E3-85BD-485B247560FF}|Rent dibo\\Rent dibo.csproj|solutionrelative:rent dibo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D612CD90-0AEC-43E3-85BD-485B247560FF}|Rent dibo\\Rent dibo.csproj|D:\\final 2\\Rent dibo\\rent dibo\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{D612CD90-0AEC-43E3-85BD-485B247560FF}|Rent dibo\\Rent dibo.csproj|solutionrelative:rent dibo\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\2 days 4\\2 days 3\\2 days\\Rent dibo\\Rent dibo\\Form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\final 2\\Rent dibo\\Rent dibo\\Form1.cs",
+              "RelativeDocumentMoniker": "Rent dibo\\Form1.cs",
+              "ToolTip": "D:\\final 2\\Rent dibo\\Rent dibo\\Form1.cs [Design]",
+              "RelativeToolTip": "Rent dibo\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-07T20:17:02.612Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form2.cs [Design]",
+              "DocumentMoniker": "D:\\final 2\\Rent dibo\\Rent dibo\\Form2.cs",
+              "RelativeDocumentMoniker": "Rent dibo\\Form2.cs",
+              "ToolTip": "D:\\final 2\\Rent dibo\\Rent dibo\\Form2.cs [Design]",
+              "RelativeToolTip": "Rent dibo\\Form2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-07T22:23:01.954Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Form3.cs [Design]",
+              "DocumentMoniker": "D:\\final 2\\Rent dibo\\Rent dibo\\Form3.cs",
+              "RelativeDocumentMoniker": "Rent dibo\\Form3.cs",
+              "ToolTip": "D:\\final 2\\Rent dibo\\Rent dibo\\Form3.cs [Design]",
+              "RelativeToolTip": "Rent dibo\\Form3.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-07T23:07:13.174Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Form4.cs [Design]",
+              "DocumentMoniker": "D:\\final 2\\Rent dibo\\Rent dibo\\Form4.cs",
+              "RelativeDocumentMoniker": "Rent dibo\\Form4.cs",
+              "ToolTip": "D:\\final 2\\Rent dibo\\Rent dibo\\Form4.cs [Design]",
+              "RelativeToolTip": "Rent dibo\\Form4.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T00:25:17.958Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Form5.cs [Design]",
+              "DocumentMoniker": "D:\\final 2\\Rent dibo\\Rent dibo\\Form5.cs",
+              "RelativeDocumentMoniker": "Rent dibo\\Form5.cs",
+              "ToolTip": "D:\\final 2\\Rent dibo\\Rent dibo\\Form5.cs [Design]",
+              "RelativeToolTip": "Rent dibo\\Form5.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T21:17:57.245Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Form8.cs [Design]",
+              "DocumentMoniker": "D:\\final 2\\Rent dibo\\Rent dibo\\Form8.cs",
+              "RelativeDocumentMoniker": "Rent dibo\\Form8.cs",
+              "ToolTip": "D:\\final 2\\Rent dibo\\Rent dibo\\Form8.cs [Design]",
+              "RelativeToolTip": "Rent dibo\\Form8.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-12T19:12:52.997Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Form9.cs [Design]",
+              "DocumentMoniker": "D:\\final 2\\Rent dibo\\Rent dibo\\Form9.cs",
+              "RelativeDocumentMoniker": "Rent dibo\\Form9.cs",
+              "ToolTip": "D:\\final 2\\Rent dibo\\Rent dibo\\Form9.cs [Design]",
+              "RelativeToolTip": "Rent dibo\\Form9.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-12T21:03:52.195Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Form10.cs [Design]",
+              "DocumentMoniker": "D:\\final 2\\Rent dibo\\Rent dibo\\Form10.cs",
+              "RelativeDocumentMoniker": "Rent dibo\\Form10.cs",
+              "ToolTip": "D:\\final 2\\Rent dibo\\Rent dibo\\Form10.cs [Design]",
+              "RelativeToolTip": "Rent dibo\\Form10.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-13T10:47:52.813Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Form6.cs [Design]",
+              "DocumentMoniker": "D:\\final 2\\Rent dibo\\Rent dibo\\Form6.cs",
+              "RelativeDocumentMoniker": "Rent dibo\\Form6.cs",
+              "ToolTip": "D:\\final 2\\Rent dibo\\Rent dibo\\Form6.cs [Design]",
+              "RelativeToolTip": "Rent dibo\\Form6.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T21:05:30.743Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Form7.cs [Design]",
+              "DocumentMoniker": "D:\\final 2\\Rent dibo\\Rent dibo\\Form7.cs",
+              "RelativeDocumentMoniker": "Rent dibo\\Form7.cs",
+              "ToolTip": "D:\\final 2\\Rent dibo\\Rent dibo\\Form7.cs [Design]",
+              "RelativeToolTip": "Rent dibo\\Form7.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T21:25:12.66Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Form11.cs [Design]",
+              "DocumentMoniker": "D:\\final 2\\Rent dibo\\Rent dibo\\Form11.cs",
+              "RelativeDocumentMoniker": "Rent dibo\\Form11.cs",
+              "ToolTip": "D:\\final 2\\Rent dibo\\Rent dibo\\Form11.cs [Design]",
+              "RelativeToolTip": "Rent dibo\\Form11.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-13T14:10:57.717Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form12.cs [Design]",
+              "DocumentMoniker": "D:\\final 2\\Rent dibo\\Rent dibo\\Form12.cs",
+              "RelativeDocumentMoniker": "Rent dibo\\Form12.cs",
+              "ToolTip": "D:\\final 2\\Rent dibo\\Rent dibo\\Form12.cs [Design]",
+              "RelativeToolTip": "Rent dibo\\Form12.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-13T14:29:56.168Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "AssignManagerForm.cs [Design]",
+              "DocumentMoniker": "D:\\final 2\\Rent dibo\\Rent dibo\\AssignManagerForm.cs",
+              "RelativeDocumentMoniker": "Rent dibo\\AssignManagerForm.cs",
+              "ToolTip": "D:\\final 2\\Rent dibo\\Rent dibo\\AssignManagerForm.cs [Design]",
+              "RelativeToolTip": "Rent dibo\\AssignManagerForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T06:44:46.484Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form13.cs [Design]",
+              "DocumentMoniker": "D:\\final 2\\Rent dibo\\Rent dibo\\Form13.cs",
+              "RelativeDocumentMoniker": "Rent dibo\\Form13.cs",
+              "ToolTip": "D:\\final 2\\Rent dibo\\Rent dibo\\Form13.cs [Design]",
+              "RelativeToolTip": "Rent dibo\\Form13.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-14T21:11:22.446Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form14.cs [Design]",
+              "DocumentMoniker": "D:\\final 2\\Rent dibo\\Rent dibo\\Form14.cs",
+              "RelativeDocumentMoniker": "Rent dibo\\Form14.cs",
+              "ToolTip": "D:\\final 2\\Rent dibo\\Rent dibo\\Form14.cs [Design]",
+              "RelativeToolTip": "Rent dibo\\Form14.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-14T22:34:37.987Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form15.cs [Design]",
+              "DocumentMoniker": "D:\\final 2\\Rent dibo\\Rent dibo\\Form15.cs",
+              "RelativeDocumentMoniker": "Rent dibo\\Form15.cs",
+              "ToolTip": "D:\\final 2\\Rent dibo\\Rent dibo\\Form15.cs [Design]",
+              "RelativeToolTip": "Rent dibo\\Form15.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-14T22:47:32.393Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Form16.cs [Design]",
+              "DocumentMoniker": "D:\\final 2\\Rent dibo\\Rent dibo\\Form16.cs",
+              "RelativeDocumentMoniker": "Rent dibo\\Form16.cs",
+              "ToolTip": "D:\\final 2\\Rent dibo\\Rent dibo\\Form16.cs [Design]",
+              "RelativeToolTip": "Rent dibo\\Form16.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T20:22:35.227Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "MyPaymentForm.cs [Design]",
+              "DocumentMoniker": "D:\\final 2\\Rent dibo\\Rent dibo\\MyPaymentForm.cs",
+              "RelativeDocumentMoniker": "Rent dibo\\MyPaymentForm.cs",
+              "ToolTip": "D:\\final 2\\Rent dibo\\Rent dibo\\MyPaymentForm.cs [Design]",
+              "RelativeToolTip": "Rent dibo\\MyPaymentForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T20:30:08.65Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Notice.cs [Design]",
+              "DocumentMoniker": "D:\\final 2\\Rent dibo\\Rent dibo\\Notice.cs",
+              "RelativeDocumentMoniker": "Rent dibo\\Notice.cs",
+              "ToolTip": "D:\\final 2\\Rent dibo\\Rent dibo\\Notice.cs [Design]",
+              "RelativeToolTip": "Rent dibo\\Notice.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T12:39:12.848Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RentPaymentsForm.cs [Design]",
+              "DocumentMoniker": "D:\\final 2\\Rent dibo\\Rent dibo\\RentPaymentsForm.cs",
+              "RelativeDocumentMoniker": "Rent dibo\\RentPaymentsForm.cs",
+              "ToolTip": "D:\\final 2\\Rent dibo\\Rent dibo\\RentPaymentsForm.cs [Design]",
+              "RelativeToolTip": "Rent dibo\\RentPaymentsForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T20:34:05.593Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Form5.cs",
+              "DocumentMoniker": "D:\\final 2\\Rent dibo\\Rent dibo\\Form5.cs",
+              "RelativeDocumentMoniker": "Rent dibo\\Form5.cs",
+              "ToolTip": "D:\\final 2\\Rent dibo\\Rent dibo\\Form5.cs",
+              "RelativeToolTip": "Rent dibo\\Form5.cs",
+              "ViewState": "AgIAAFkAAAAAAAAAAAAswDkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T21:27:02.995Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\final 2\\Rent dibo\\Rent dibo\\Form1.cs",
+              "RelativeDocumentMoniker": "Rent dibo\\Form1.cs",
+              "ToolTip": "D:\\final 2\\Rent dibo\\Rent dibo\\Form1.cs",
+              "RelativeToolTip": "Rent dibo\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-07T21:43:11.484Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "D:\\final 2\\Rent dibo\\Rent dibo\\Form2.cs",
+              "RelativeDocumentMoniker": "Rent dibo\\Form2.cs",
+              "ToolTip": "D:\\final 2\\Rent dibo\\Rent dibo\\Form2.cs",
+              "RelativeToolTip": "Rent dibo\\Form2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-07T22:58:50.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form7.cs",
+              "DocumentMoniker": "D:\\final 2\\Rent dibo\\Rent dibo\\Form7.cs",
+              "RelativeDocumentMoniker": "Rent dibo\\Form7.cs",
+              "ToolTip": "D:\\final 2\\Rent dibo\\Rent dibo\\Form7.cs",
+              "RelativeToolTip": "Rent dibo\\Form7.cs",
+              "ViewState": "AgIAAKkAAAAAAAAAAAAQwLQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T21:37:57.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Form11.cs",
+              "DocumentMoniker": "D:\\final 2\\Rent dibo\\Rent dibo\\Form11.cs",
+              "RelativeDocumentMoniker": "Rent dibo\\Form11.cs",
+              "ToolTip": "D:\\final 2\\Rent dibo\\Rent dibo\\Form11.cs",
+              "RelativeToolTip": "Rent dibo\\Form11.cs",
+              "ViewState": "AgIAAGEAAAAAAAAAAAAwwCcAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-13T14:14:03.107Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form14.cs",
+              "DocumentMoniker": "D:\\final 2\\Rent dibo\\Rent dibo\\Form14.cs",
+              "RelativeDocumentMoniker": "Rent dibo\\Form14.cs",
+              "ToolTip": "D:\\final 2\\Rent dibo\\Rent dibo\\Form14.cs",
+              "RelativeToolTip": "Rent dibo\\Form14.cs",
+              "ViewState": "AgIAAGwAAAAAAAAAAAAzwHcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-14T23:15:26.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form15.cs",
+              "DocumentMoniker": "D:\\final 2\\Rent dibo\\Rent dibo\\Form15.cs",
+              "RelativeDocumentMoniker": "Rent dibo\\Form15.cs",
+              "ToolTip": "D:\\final 2\\Rent dibo\\Rent dibo\\Form15.cs",
+              "RelativeToolTip": "Rent dibo\\Form15.cs",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAAwGoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T18:06:38.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Form12.cs",
+              "DocumentMoniker": "D:\\final 2\\Rent dibo\\Rent dibo\\Form12.cs",
+              "RelativeDocumentMoniker": "Rent dibo\\Form12.cs",
+              "ToolTip": "D:\\final 2\\Rent dibo\\Rent dibo\\Form12.cs",
+              "RelativeToolTip": "Rent dibo\\Form12.cs",
+              "ViewState": "AgIAAIEAAAAAAAAAAAAQwIwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-13T14:33:05.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Form10.cs",
+              "DocumentMoniker": "D:\\final 2\\Rent dibo\\Rent dibo\\Form10.cs",
+              "RelativeDocumentMoniker": "Rent dibo\\Form10.cs",
+              "ToolTip": "D:\\final 2\\Rent dibo\\Rent dibo\\Form10.cs",
+              "RelativeToolTip": "Rent dibo\\Form10.cs",
+              "ViewState": "AgIAAMQAAAAAAAAAAAAzwM8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-13T11:00:31.433Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Form3.cs",
+              "DocumentMoniker": "D:\\final 2\\Rent dibo\\Rent dibo\\Form3.cs",
+              "RelativeDocumentMoniker": "Rent dibo\\Form3.cs",
+              "ToolTip": "D:\\final 2\\Rent dibo\\Rent dibo\\Form3.cs",
+              "RelativeToolTip": "Rent dibo\\Form3.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAxwDAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-07T23:43:41.821Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Form6.cs",
+              "DocumentMoniker": "D:\\final 2\\Rent dibo\\Rent dibo\\Form6.cs",
+              "RelativeDocumentMoniker": "Rent dibo\\Form6.cs",
+              "ToolTip": "D:\\final 2\\Rent dibo\\Rent dibo\\Form6.cs",
+              "RelativeToolTip": "Rent dibo\\Form6.cs",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAiwGUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T21:23:18.317Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Form4.cs",
+              "DocumentMoniker": "D:\\final 2\\Rent dibo\\Rent dibo\\Form4.cs",
+              "RelativeDocumentMoniker": "Rent dibo\\Form4.cs",
+              "ToolTip": "D:\\final 2\\Rent dibo\\Rent dibo\\Form4.cs",
+              "RelativeToolTip": "Rent dibo\\Form4.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T00:36:18.894Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Form9.cs",
+              "DocumentMoniker": "D:\\final 2\\Rent dibo\\Rent dibo\\Form9.cs",
+              "RelativeDocumentMoniker": "Rent dibo\\Form9.cs",
+              "ToolTip": "D:\\final 2\\Rent dibo\\Rent dibo\\Form9.cs",
+              "RelativeToolTip": "Rent dibo\\Form9.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-12T21:14:07.838Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Form13.cs",
+              "DocumentMoniker": "D:\\final 2\\Rent dibo\\Rent dibo\\Form13.cs",
+              "RelativeDocumentMoniker": "Rent dibo\\Form13.cs",
+              "ToolTip": "D:\\final 2\\Rent dibo\\Rent dibo\\Form13.cs",
+              "RelativeToolTip": "Rent dibo\\Form13.cs",
+              "ViewState": "AgIAAHgAAAAAAAAAAAAQwIMAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-14T21:54:59.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Form16.cs",
+              "DocumentMoniker": "D:\\final 2\\Rent dibo\\Rent dibo\\Form16.cs",
+              "RelativeDocumentMoniker": "Rent dibo\\Form16.cs",
+              "ToolTip": "D:\\final 2\\Rent dibo\\Rent dibo\\Form16.cs",
+              "RelativeToolTip": "Rent dibo\\Form16.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAkwG8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T20:26:19.855Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "RentPaymentsForm.cs",
+              "DocumentMoniker": "D:\\final 2\\Rent dibo\\Rent dibo\\RentPaymentsForm.cs",
+              "RelativeDocumentMoniker": "Rent dibo\\RentPaymentsForm.cs",
+              "ToolTip": "D:\\final 2\\Rent dibo\\Rent dibo\\RentPaymentsForm.cs",
+              "RelativeToolTip": "Rent dibo\\RentPaymentsForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T20:34:48.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Form8.cs",
+              "DocumentMoniker": "D:\\final 2\\Rent dibo\\Rent dibo\\Form8.cs",
+              "RelativeDocumentMoniker": "Rent dibo\\Form8.cs",
+              "ToolTip": "D:\\final 2\\Rent dibo\\Rent dibo\\Form8.cs",
+              "RelativeToolTip": "Rent dibo\\Form8.cs",
+              "ViewState": "AgIAALAAAAAAAAAAAAAUwB0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-12T19:28:34.406Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "AssignManagerForm.cs",
+              "DocumentMoniker": "D:\\final 2\\Rent dibo\\Rent dibo\\AssignManagerForm.cs",
+              "RelativeDocumentMoniker": "Rent dibo\\AssignManagerForm.cs",
+              "ToolTip": "D:\\final 2\\Rent dibo\\Rent dibo\\AssignManagerForm.cs",
+              "RelativeToolTip": "Rent dibo\\AssignManagerForm.cs",
+              "ViewState": "AgIAAHAAAAAAAAAAAAAAAHoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T06:47:26.688Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Form13.Designer.cs",
+              "DocumentMoniker": "D:\\final 2\\Rent dibo\\Rent dibo\\Form13.Designer.cs",
+              "RelativeDocumentMoniker": "Rent dibo\\Form13.Designer.cs",
+              "ToolTip": "D:\\final 2\\Rent dibo\\Rent dibo\\Form13.Designer.cs",
+              "RelativeToolTip": "Rent dibo\\Form13.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T04:40:55.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Form8.Designer.cs",
+              "DocumentMoniker": "D:\\final 2\\Rent dibo\\Rent dibo\\Form8.Designer.cs",
+              "RelativeDocumentMoniker": "Rent dibo\\Form8.Designer.cs",
+              "ToolTip": "D:\\final 2\\Rent dibo\\Rent dibo\\Form8.Designer.cs",
+              "RelativeToolTip": "Rent dibo\\Form8.Designer.cs",
+              "ViewState": "AgIAAMEAAAAAAAAAAAAvwBkBAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T05:07:33.425Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Form13.resx",
+              "DocumentMoniker": "D:\\final 2\\Rent dibo\\Rent dibo\\Form13.resx",
+              "RelativeDocumentMoniker": "Rent dibo\\Form13.resx",
+              "ToolTip": "D:\\final 2\\Rent dibo\\Rent dibo\\Form13.resx",
+              "RelativeToolTip": "Rent dibo\\Form13.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-09-17T04:40:50.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Notice.cs",
+              "DocumentMoniker": "D:\\final 2\\Rent dibo\\Rent dibo\\Notice.cs",
+              "RelativeDocumentMoniker": "Rent dibo\\Notice.cs",
+              "ToolTip": "D:\\final 2\\Rent dibo\\Rent dibo\\Notice.cs",
+              "RelativeToolTip": "Rent dibo\\Notice.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAIwBAAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T12:46:13.149Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "MyPaymentForm.cs",
+              "DocumentMoniker": "D:\\final 2\\Rent dibo\\Rent dibo\\MyPaymentForm.cs",
+              "RelativeDocumentMoniker": "Rent dibo\\MyPaymentForm.cs",
+              "ToolTip": "D:\\final 2\\Rent dibo\\Rent dibo\\MyPaymentForm.cs",
+              "RelativeToolTip": "Rent dibo\\MyPaymentForm.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAIwBEAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T20:31:10.254Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\final 2\\Rent dibo\\Rent dibo\\Program.cs",
+              "RelativeDocumentMoniker": "Rent dibo\\Program.cs",
+              "ToolTip": "D:\\final 2\\Rent dibo\\Rent dibo\\Program.cs",
+              "RelativeToolTip": "Rent dibo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T15:10:11.439Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "App.config",
+              "DocumentMoniker": "D:\\final 2\\Rent dibo\\Rent dibo\\App.config",
+              "RelativeDocumentMoniker": "Rent dibo\\App.config",
+              "ToolTip": "D:\\final 2\\Rent dibo\\Rent dibo\\App.config",
+              "RelativeToolTip": "Rent dibo\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-09-16T15:03:35.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Form4.cs",
+              "DocumentMoniker": "E:\\2 days 4\\2 days 3\\2 days\\Rent dibo\\Rent dibo\\Form4.cs",
+              "ToolTip": "E:\\2 days 4\\2 days 3\\2 days\\Rent dibo\\Rent dibo\\Form4.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T23:21:19.489Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
